@@ -1,1 +1,1 @@
-I am learning.
+I learn.
